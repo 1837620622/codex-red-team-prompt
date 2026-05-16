@@ -64,4 +64,4 @@ model_instructions_file = "/Users/yourusername/.codex/system-prompt.md"
 
 ## 免责声明
 
-使用者对本配置的使用承担全部责任。作者不对任何滥用或非法使用负责。
+使用者对本配置的使用承担全部责任。本项目不对任何滥用或非法使用负责。
