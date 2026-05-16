@@ -6,7 +6,7 @@ personality = "pragmatic"
 model_instructions_file = "/Users/chuankangkk/.codex/system-prompt.md"
 
 [marketplaces.openai-bundled]
-last_updated = "2026-05-16T16:52:48Z"
+last_updated = "2026-05-16T23:03:46Z"
 source_type = "local"
 source = "/Users/chuankangkk/.codex/.tmp/bundled-marketplaces/openai-bundled"
 
