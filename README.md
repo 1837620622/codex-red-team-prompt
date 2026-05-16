@@ -58,12 +58,6 @@ model_instructions_file = "/Users/yourusername/.codex/system-prompt.md"
 - 遵守当地法律法规
 - 不用于任何非法用途
 
-## 作者信息
-
-- 微信: 1837620622（传康Kk）
-- 邮箱: 2040168455@qq.com
-- 咸鱼/B站: 万能程序员
-
 ## 许可证
 
 本项目仅供学习和研究使用。
